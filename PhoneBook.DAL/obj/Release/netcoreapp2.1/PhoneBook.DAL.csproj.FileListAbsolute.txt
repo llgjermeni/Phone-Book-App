@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\PhoneBook\PhoneBook.DAL\bin\Release\netcoreapp2.1\PhoneBook.DAL.deps.json
+C:\Users\User\source\repos\PhoneBook\PhoneBook.DAL\bin\Release\netcoreapp2.1\PhoneBook.DAL.dll
+C:\Users\User\source\repos\PhoneBook\PhoneBook.DAL\bin\Release\netcoreapp2.1\PhoneBook.DAL.pdb
+C:\Users\User\source\repos\PhoneBook\PhoneBook.DAL\obj\Release\netcoreapp2.1\PhoneBook.DAL.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PhoneBook\PhoneBook.DAL\obj\Release\netcoreapp2.1\PhoneBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PhoneBook\PhoneBook.DAL\obj\Release\netcoreapp2.1\PhoneBook.DAL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PhoneBook\PhoneBook.DAL\obj\Release\netcoreapp2.1\PhoneBook.DAL.AssemblyInfo.cs
+C:\Users\User\source\repos\PhoneBook\PhoneBook.DAL\obj\Release\netcoreapp2.1\PhoneBook.DAL.dll
+C:\Users\User\source\repos\PhoneBook\PhoneBook.DAL\obj\Release\netcoreapp2.1\PhoneBook.DAL.pdb

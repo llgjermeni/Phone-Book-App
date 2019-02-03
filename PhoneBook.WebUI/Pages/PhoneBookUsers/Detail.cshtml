@@ -1,0 +1,32 @@
+﻿@page "{phoneUserId:int}"
+@model PhoneBook.WebUI.Pages.PhoneBookUsers.DetailModel
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h2>@Model.PhoneUser.FirstName @Model.PhoneUser.LastName</h2>
+
+
+<div>
+
+    Id: @Model.PhoneUser.Id
+
+</div>
+
+<div>
+
+    Phone Type: @Model.PhoneUser.PhoneType
+
+</div>
+<div>
+
+    Phone Number: @Model.PhoneUser.PhoneNumber
+
+</div>
+
+
+
+<a asp-page="./List" class="btn btn-default">All Users</a>
+
+
+

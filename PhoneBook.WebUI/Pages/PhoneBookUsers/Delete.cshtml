@@ -1,0 +1,21 @@
+﻿@page
+@model PhoneBook.WebUI.Pages.PhoneBookUsers.DeleteModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete a user</h2>
+
+<div class="alert alert-danger">
+
+    Are you sure you want to delete @Model.PhoneUser.FirstName @Model.PhoneUser.LastName?
+
+</div>
+
+<form method="post">
+
+    <button type="submit" class="btn btn-danger">Yes!</button>
+
+    <a asp-page="List" class="btn btn-default">Cancel</a>
+
+</form>

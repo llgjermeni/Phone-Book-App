@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\bin\Debug\netcoreapp2.1\PhoneBook.API.deps.json
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\bin\Debug\netcoreapp2.1\PhoneBook.API.runtimeconfig.json
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\bin\Debug\netcoreapp2.1\PhoneBook.API.runtimeconfig.dev.json
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\bin\Debug\netcoreapp2.1\PhoneBook.API.dll
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\obj\Debug\netcoreapp2.1\PhoneBook.API.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\obj\Debug\netcoreapp2.1\PhoneBook.API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\obj\Debug\netcoreapp2.1\PhoneBook.API.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\obj\Debug\netcoreapp2.1\PhoneBook.API.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\obj\Debug\netcoreapp2.1\PhoneBook.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\obj\Debug\netcoreapp2.1\PhoneBook.API.AssemblyInfo.cs
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\obj\Debug\netcoreapp2.1\PhoneBook.API.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\bin\Debug\netcoreapp2.1\PhoneBook.API.pdb
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\obj\Debug\netcoreapp2.1\PhoneBook.API.dll
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\obj\Debug\netcoreapp2.1\PhoneBook.API.pdb
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\bin\Debug\netcoreapp2.1\PhoneBook.DAL.dll
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\bin\Debug\netcoreapp2.1\PhoneBook.DAL.pdb
+C:\Users\User\source\repos\PhoneBook\PhoneBook.API\obj\Debug\netcoreapp2.1\PhoneBook.API.csproj.CopyComplete

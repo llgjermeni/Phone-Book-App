@@ -1,0 +1,26 @@
+﻿@page
+@model PhoneBook.WebUI.Pages.PhoneBookUsers.ListModel
+@{
+    ViewData["Title"] = "List of Entries";
+}
+
+<h2>The List of Users in PhoneBook</h2>
+
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchUser" />
+        </div>
+        <span class="input-group-btn">
+            <i class="glyphicon glyphicon-search"></i>
+        </span>
+    </div>
+</form>
+       <vc:total-number-of-users></vc:total-number-of-users> 
+@foreach (var phoneUsers in Model.PhoneUsers)
+{
+    <partial name="_Summary" model="phoneUsers" />
+}
+
+<a asp-page=".\Edit" class="btn btn-primary">Add New User</a>
+
