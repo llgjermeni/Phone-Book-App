@@ -38,17 +38,19 @@ namespace PhoneBook.WebUI.Pages.PhoneBookUsers
         /// 
         /// if id not found return the page not found
         /// </summary>
-        /// <param name="userId"></param>
+        /// <param name="phoneUserId"></param>
         /// <returns> retrieve the user by id</returns>
-        public IActionResult OnGet(int? userId)
+        public IActionResult OnGet(int? phoneUserId)
         {
             PhoneType = htmlHelper.GetEnumSelectList<PhoneType>();
-            if (userId.HasValue)
+            if (phoneUserId.HasValue)
             {
-                PhoneUser = repository.GetUserById(userId.Value);
+                PhoneUser = repository.GetUserById(phoneUserId.Value);
+                //return RedirectToPage("./NotFound");
             }
             else
             {
+               // return RedirectToPage("./NotFound");
                 PhoneUser = new PhoneUser();
             }
             if (PhoneUser==null)

@@ -58,7 +58,7 @@ namespace PhoneBook.DAL.Services
         /// <returns>return the user by id</returns>
         public PhoneUser GetUserById(int id)
         {
-            return phoneUsers.SingleOrDefault(c => c.Id == id);
+            return phoneUsers.FirstOrDefault(c => c.Id == id);
         }
 
 

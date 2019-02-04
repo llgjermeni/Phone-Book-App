@@ -37,3 +37,4 @@ C:\Users\User\source\repos\PhoneBook\PhoneBook.WebUI\obj\Release\netcoreapp2.1\P
 C:\Users\User\source\repos\PhoneBook\PhoneBook.WebUI\obj\Release\netcoreapp2.1\PhoneBook.WebUI.csproj.CopyComplete
 C:\Users\User\source\repos\PhoneBook\PhoneBook.WebUI\obj\Release\netcoreapp2.1\PhoneBook.WebUI.dll
 C:\Users\User\source\repos\PhoneBook\PhoneBook.WebUI\obj\Release\netcoreapp2.1\PhoneBook.WebUI.pdb
+C:\Users\User\source\repos\PhoneBook\PhoneBook.WebUI\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
