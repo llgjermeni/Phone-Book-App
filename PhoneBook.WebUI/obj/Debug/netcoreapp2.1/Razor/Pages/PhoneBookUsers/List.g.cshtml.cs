@@ -70,12 +70,12 @@ using PhoneBook.DAL.Data;
             WriteLiteral("\r\n<h2>The List of Users in PhoneBook</h2>\r\n\r\n");
             EndContext();
             BeginContext(158, 313, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "04c745d8467c41219a6fadda92342bfd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4f8f603886d64859ab89c2828c3a4ab5", async() => {
                 BeginContext(177, 79, true);
                 WriteLiteral("\r\n    <div class=\"form-group\">\r\n        <div class=\"input-group\">\r\n            ");
                 EndContext();
                 BeginContext(256, 65, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "a87ed2cd5f1148cfb91dd0cdab55a183", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "7dedc688bc11428db5c1ed03a42554ec", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -120,7 +120,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
             WriteLiteral("\r\n       ");
             EndContext();
             BeginContext(480, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("vc:total-number-of-users", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9228f9f9c57d487492fd98fd1fe4c720", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("vc:total-number-of-users", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6146f61579b24c32a235e6a8be62e57c", async() => {
             }
             );
             __TotalNumberOfUsersViewComponentTagHelper = CreateTagHelper<global::PhoneBook.WebUI.Pages.PhoneBookUsers.Pages_PhoneBookUsers_List.__Generated__TotalNumberOfUsersViewComponentTagHelper>();
@@ -146,7 +146,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
             WriteLiteral("    ");
             EndContext();
             BeginContext(590, 46, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "fe2bc3963d8140ae871e107665ee9837", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f8fa1e3ca2174b6b98dca94ef9e1c66f", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -179,7 +179,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper.Model = phoneUsers;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(643, 61, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7af7f478164548ba829cefddc960d70d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b54a4be2efb24c4baafbd7ad70f9fa8c", async() => {
                 BeginContext(688, 12, true);
                 WriteLiteral("Add New User");
                 EndContext();

@@ -46,7 +46,7 @@ namespace PhoneBook.DAL.Services
         public PhoneUser Create(PhoneUser user)
         {
             phoneUsers.Add(user);
-           // user.Id = phoneUsers.Max(c => c.Id) + 1;
+            user.Id = phoneUsers.Max(c => c.Id) + 1;
             _cache.Set("UserList", phoneUsers);
             return user;
         }

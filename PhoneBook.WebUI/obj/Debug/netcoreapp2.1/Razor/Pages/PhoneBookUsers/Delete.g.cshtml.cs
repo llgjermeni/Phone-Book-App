@@ -84,12 +84,12 @@ using PhoneBook.DAL.Data;
             WriteLiteral("?\r\n\r\n</div>\r\n\r\n");
             EndContext();
             BeginContext(273, 158, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ba4db4bc5b7f4c4ba3cd0689b7ee54fa", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e01ed5ea9a3e4807b067f29b440f27ee", async() => {
                 BeginContext(293, 74, true);
                 WriteLiteral("\r\n\r\n    <button type=\"submit\" class=\"btn btn-danger\">Yes!</button>\r\n\r\n    ");
                 EndContext();
                 BeginContext(367, 53, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9e0a271ff7af49d4a7b6de632d9af892", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ed12290170ff4a63b911332156233dea", async() => {
                     BeginContext(410, 6, true);
                     WriteLiteral("Cancel");
                     EndContext();

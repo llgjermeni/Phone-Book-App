@@ -80,7 +80,7 @@ namespace PhoneBook.WebUI.Pages.PhoneBookUsers
             }
 
             TempData["Message"] = "Entries saved";
-            return RedirectToPage("./Detail", new { phoneUseId = PhoneUser.Id });
+            return RedirectToPage("./Detail", new { phoneUserId = PhoneUser.Id });
         }
     }
 }
